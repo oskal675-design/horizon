@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "minecraft": "26.3",
+  "platform": "Linux-7.2.8-9-omarchy-x86_64-with-glibc2.44",
+  "sources_sha256": {
+    "crates/horizon-client/src/clock.rs": "0a351d2056d214cda856391b413f0b1ee8232142f14f9e311b275f0d79edddfe",
+    "crates/horizon-client/src/lan/hub.rs": "4c5465759d53b142a74b7ced9496b77d8aff882709194e91fc0852aafe257735",
+    "mods/horizon/src/test/java/dev/horizonlab/parity/LocatorBarClient.java": "f46920d97856bfac0c4dc1e82e91f7c61cbb6633c793fe8381f168272d088746",
+    "tools/test_locator_bar_parity.py": "e70c93f4042b0c72b3746e0c6c72c2b592730a81b5c4b8e1b8a3b1535b12d696",
+    "tools/test_dedicated_server_parity.py": "b94a0ee20dc2e4937cc1b2143726d3f870f75c58600a421be6f0933581e70de2",
+    "tools/test_tick_step_network_parity.py": "5d57238b1444e5dc47d5ad13994d7fd04aa8d362e37ad91bbbf531ba2b8edc18"
+  },
+  "matched_output_lines": 11,
+  "scope": "Actual dedicated servers and native-codec client. Requested counts for single/multiple/repeated steps, cancellation, rejected unfrozen steps, remaining ticks on a late join, and step-before-piston-event ordering for both clients. Does not render a graphical client."
+}

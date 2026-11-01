@@ -1,0 +1,32 @@
+pr_ready: 6 files changed since e6eed3e11; checks on local
+  Public tree...
+  Public tree: pass (0 s)
+  Python tests...
+  Python tests: pass (21 s)
+  rustfmt...
+  rustfmt: pass (6 s)
+  clippy...
+  clippy: pass (32 s)
+  tests: horizon-client...
+  tests: horizon-client: pass (2 min 26 s)
+  doc tests...
+  doc tests: pass (1 s)
+**pr_ready** (`tools/pr_ready.py --quick --base e6eed3e11` on omarchy, against e6eed3e11 at e6eed3e11, 3 min 30 s)
+
+| Check | Result |
+| --- | --- |
+| Scope | ✅ 6 files, +247 −28 |
+| Cargo.lock | ✅ unchanged |
+| Public tree | ✅ |
+| Python tests | ✅ 523 passed (21 s) |
+| rustfmt | ✅ (6 s) |
+| clippy | ✅ (32 s) |
+| tests: horizon-client | ✅ 1710 passed (2 min 26 s) |
+| doc tests | ✅ 0 passed (1 s) |
+| content root tests | ➖ content root untouched |
+| tokens.css up to date | ➖ theme untouched |
+| launcher rustfmt | ➖ launcher untouched |
+| launcher clippy | ➖ launcher untouched |
+| launcher tests | ➖ launcher untouched |
+| Parity | ➖ 319 affected, to run in CI (--quick): blending, block_removal, block_survival, boat_paddle_reset, bundle_weight, camera, canyon_carver, carving_geometry, carving_mask, cauldron, cave_carver, chat_screen and 307 more |
+| Label | player-facing: `feature` if players get something new, no label for a fix (`release-now` if urgent) |

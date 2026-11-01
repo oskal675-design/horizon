@@ -1,0 +1,8 @@
+Alice step=joins tick-step 0
+Alice step=single tick-step 0
+Alice step=five tick-step 4
+Alice step=single-again tick-step 0
+Alice step=long-step tick-step 999
+Alice step=stop tick-step 0
+Bob step=late-join tick-step 0
+Baseline reproduces the network regression

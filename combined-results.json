@@ -1,0 +1,164 @@
+[
+  {
+    "label": "east-powered",
+    "expected": "air",
+    "client": "minecraft:air",
+    "native_saved_progress": null,
+    "game_time_before": 33,
+    "game_time_after": 33,
+    "pass_": true
+  },
+  {
+    "label": "east-extend-1",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 34,
+    "game_time_after": 34,
+    "pass_": true
+  },
+  {
+    "label": "east-extend-2",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 35,
+    "game_time_after": 35,
+    "pass_": true
+  },
+  {
+    "label": "east-extend-3",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 36,
+    "game_time_after": 36,
+    "pass_": true
+  },
+  {
+    "label": "east-unpowered",
+    "expected": "piston_head",
+    "client": "minecraft:piston_head",
+    "native_saved_progress": null,
+    "game_time_before": 36,
+    "game_time_after": 36,
+    "pass_": true
+  },
+  {
+    "label": "east-retract-1",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 37,
+    "game_time_after": 37,
+    "pass_": true
+  },
+  {
+    "label": "east-retract-2",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 38,
+    "game_time_after": 38,
+    "pass_": true
+  },
+  {
+    "label": "east-retract-3",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 39,
+    "game_time_after": 39,
+    "pass_": true
+  },
+  {
+    "label": "east-unfrozen",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 59,
+    "game_time_after": 80,
+    "pass_": true
+  },
+  {
+    "label": "up-powered",
+    "expected": "air",
+    "client": "minecraft:air",
+    "native_saved_progress": null,
+    "game_time_before": 82,
+    "game_time_after": 82,
+    "pass_": true
+  },
+  {
+    "label": "up-extend-1",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 83,
+    "game_time_after": 83,
+    "pass_": true
+  },
+  {
+    "label": "up-extend-2",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 84,
+    "game_time_after": 84,
+    "pass_": true
+  },
+  {
+    "label": "up-extend-3",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 85,
+    "game_time_after": 85,
+    "pass_": true
+  },
+  {
+    "label": "up-unpowered",
+    "expected": "piston_head",
+    "client": "minecraft:piston_head",
+    "native_saved_progress": null,
+    "game_time_before": 85,
+    "game_time_after": 85,
+    "pass_": true
+  },
+  {
+    "label": "up-retract-1",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 86,
+    "game_time_after": 86,
+    "pass_": true
+  },
+  {
+    "label": "up-retract-2",
+    "expected": "moving_piston",
+    "client": "minecraft:moving_piston",
+    "native_saved_progress": null,
+    "game_time_before": 87,
+    "game_time_after": 87,
+    "pass_": true
+  },
+  {
+    "label": "up-retract-3",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 88,
+    "game_time_after": 88,
+    "pass_": true
+  },
+  {
+    "label": "up-unfrozen",
+    "expected": "stone",
+    "client": "minecraft:stone",
+    "native_saved_progress": null,
+    "game_time_before": 108,
+    "game_time_after": 129,
+    "pass_": true
+  }
+]

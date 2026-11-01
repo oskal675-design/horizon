@@ -1,0 +1,14 @@
+Alice step=joins tick-step 0
+Alice step=single tick-step 1
+Alice step=five tick-step 5
+Alice step=single-again tick-step 1
+Alice step=long-step tick-step 1000
+Alice step=stop tick-step 0
+Alice step=unfrozen track Bob minecraft:default - block 2 82 -4
+Alice step=piston tick-step 1
+Alice step=piston piston-event 0 5
+Bob step=late-join tick-step 0
+Bob step=late-join track Alice minecraft:default - block 0 -60 0
+Bob step=unfrozen track Alice minecraft:default - block 0 82 -4
+Bob step=piston tick-step 1
+Bob step=piston piston-event 0 5

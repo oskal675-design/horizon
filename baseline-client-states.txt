@@ -1,0 +1,64 @@
+[20:44:18] [Render thread/INFO]: [STDOUT]: PISTON east-powered 0 Block{minecraft:sticky_piston}[extended=false,facing=east] entity=null
+[20:44:18] [Render thread/INFO]: [STDOUT]: PISTON east-powered 1 Block{minecraft:stone} entity=null
+[20:44:18] [Render thread/INFO]: [STDOUT]: PISTON east-powered 2 Block{minecraft:air} entity=null
+[20:44:18] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-powered.png
+[20:44:19] [Render thread/INFO]: [STDOUT]: PISTON east-extend-1 0 Block{minecraft:sticky_piston}[extended=true,facing=east] entity=null
+[20:44:19] [Render thread/INFO]: [STDOUT]: PISTON east-extend-1 1 Block{minecraft:moving_piston}[facing=east,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:19] [Render thread/INFO]: [STDOUT]: PISTON east-extend-1 2 Block{minecraft:moving_piston}[facing=east,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:19] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-extend-1.png
+[20:44:21] [Render thread/INFO]: [STDOUT]: PISTON east-extend-2 0 Block{minecraft:sticky_piston}[extended=true,facing=east] entity=null
+[20:44:21] [Render thread/INFO]: [STDOUT]: PISTON east-extend-2 1 Block{minecraft:moving_piston}[facing=east,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:21] [Render thread/INFO]: [STDOUT]: PISTON east-extend-2 2 Block{minecraft:moving_piston}[facing=east,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:21] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-extend-2.png
+[20:44:23] [Render thread/INFO]: [STDOUT]: PISTON east-extend-3 0 Block{minecraft:sticky_piston}[extended=true,facing=east] entity=null
+[20:44:23] [Render thread/INFO]: [STDOUT]: PISTON east-extend-3 1 Block{minecraft:piston_head}[facing=east,short=false,type=sticky] entity=null
+[20:44:23] [Render thread/INFO]: [STDOUT]: PISTON east-extend-3 2 Block{minecraft:stone} entity=null
+[20:44:23] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-extend-3.png
+[20:44:24] [Render thread/INFO]: [STDOUT]: PISTON east-unpowered 0 Block{minecraft:sticky_piston}[extended=true,facing=east] entity=null
+[20:44:24] [Render thread/INFO]: [STDOUT]: PISTON east-unpowered 1 Block{minecraft:piston_head}[facing=east,short=false,type=sticky] entity=null
+[20:44:24] [Render thread/INFO]: [STDOUT]: PISTON east-unpowered 2 Block{minecraft:stone} entity=null
+[20:44:24] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-unpowered.png
+[20:44:25] [Render thread/INFO]: [STDOUT]: PISTON east-retract-1 0 Block{minecraft:moving_piston}[facing=east,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:25] [Render thread/INFO]: [STDOUT]: PISTON east-retract-1 1 Block{minecraft:moving_piston}[facing=east,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:25] [Render thread/INFO]: [STDOUT]: PISTON east-retract-1 2 Block{minecraft:air} entity=null
+[20:44:25] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-retract-1.png
+[20:44:27] [Render thread/INFO]: [STDOUT]: PISTON east-retract-2 0 Block{minecraft:moving_piston}[facing=east,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:27] [Render thread/INFO]: [STDOUT]: PISTON east-retract-2 1 Block{minecraft:moving_piston}[facing=east,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:27] [Render thread/INFO]: [STDOUT]: PISTON east-retract-2 2 Block{minecraft:air} entity=null
+[20:44:27] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-retract-2.png
+[20:44:28] [Render thread/INFO]: [STDOUT]: PISTON east-retract-3 0 Block{minecraft:sticky_piston}[extended=false,facing=east] entity=null
+[20:44:28] [Render thread/INFO]: [STDOUT]: PISTON east-retract-3 1 Block{minecraft:stone} entity=null
+[20:44:28] [Render thread/INFO]: [STDOUT]: PISTON east-retract-3 2 Block{minecraft:air} entity=null
+[20:44:29] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as east-retract-3.png
+[20:44:30] [Render thread/INFO]: [STDOUT]: PISTON up-powered 0 Block{minecraft:sticky_piston}[extended=false,facing=up] entity=null
+[20:44:30] [Render thread/INFO]: [STDOUT]: PISTON up-powered 1 Block{minecraft:stone} entity=null
+[20:44:30] [Render thread/INFO]: [STDOUT]: PISTON up-powered 2 Block{minecraft:air} entity=null
+[20:44:30] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-powered.png
+[20:44:32] [Render thread/INFO]: [STDOUT]: PISTON up-extend-1 0 Block{minecraft:sticky_piston}[extended=true,facing=up] entity=null
+[20:44:32] [Render thread/INFO]: [STDOUT]: PISTON up-extend-1 1 Block{minecraft:moving_piston}[facing=up,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:32] [Render thread/INFO]: [STDOUT]: PISTON up-extend-1 2 Block{minecraft:moving_piston}[facing=up,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:32] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-extend-1.png
+[20:44:33] [Render thread/INFO]: [STDOUT]: PISTON up-extend-2 0 Block{minecraft:sticky_piston}[extended=true,facing=up] entity=null
+[20:44:33] [Render thread/INFO]: [STDOUT]: PISTON up-extend-2 1 Block{minecraft:moving_piston}[facing=up,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:33] [Render thread/INFO]: [STDOUT]: PISTON up-extend-2 2 Block{minecraft:moving_piston}[facing=up,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:33] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-extend-2.png
+[20:44:35] [Render thread/INFO]: [STDOUT]: PISTON up-extend-3 0 Block{minecraft:sticky_piston}[extended=true,facing=up] entity=null
+[20:44:35] [Render thread/INFO]: [STDOUT]: PISTON up-extend-3 1 Block{minecraft:piston_head}[facing=up,short=false,type=sticky] entity=null
+[20:44:35] [Render thread/INFO]: [STDOUT]: PISTON up-extend-3 2 Block{minecraft:stone} entity=null
+[20:44:35] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-extend-3.png
+[20:44:36] [Render thread/INFO]: [STDOUT]: PISTON up-unpowered 0 Block{minecraft:sticky_piston}[extended=true,facing=up] entity=null
+[20:44:36] [Render thread/INFO]: [STDOUT]: PISTON up-unpowered 1 Block{minecraft:piston_head}[facing=up,short=false,type=sticky] entity=null
+[20:44:36] [Render thread/INFO]: [STDOUT]: PISTON up-unpowered 2 Block{minecraft:stone} entity=null
+[20:44:36] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-unpowered.png
+[20:44:38] [Render thread/INFO]: [STDOUT]: PISTON up-retract-1 0 Block{minecraft:moving_piston}[facing=up,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:38] [Render thread/INFO]: [STDOUT]: PISTON up-retract-1 1 Block{minecraft:moving_piston}[facing=up,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:38] [Render thread/INFO]: [STDOUT]: PISTON up-retract-1 2 Block{minecraft:air} entity=null
+[20:44:38] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-retract-1.png
+[20:44:39] [Render thread/INFO]: [STDOUT]: PISTON up-retract-2 0 Block{minecraft:moving_piston}[facing=up,type=sticky] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:39] [Render thread/INFO]: [STDOUT]: PISTON up-retract-2 1 Block{minecraft:moving_piston}[facing=up,type=normal] entity=PistonMovingBlockEntity progress=0.0 current=0.0
+[20:44:39] [Render thread/INFO]: [STDOUT]: PISTON up-retract-2 2 Block{minecraft:air} entity=null
+[20:44:39] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-retract-2.png
+[20:44:41] [Render thread/INFO]: [STDOUT]: PISTON up-retract-3 0 Block{minecraft:sticky_piston}[extended=false,facing=up] entity=null
+[20:44:41] [Render thread/INFO]: [STDOUT]: PISTON up-retract-3 1 Block{minecraft:stone} entity=null
+[20:44:41] [Render thread/INFO]: [STDOUT]: PISTON up-retract-3 2 Block{minecraft:air} entity=null
+[20:44:41] [IO-Worker-1/INFO]: [STDOUT]: PISTON screenshot Saved screenshot as up-retract-3.png
