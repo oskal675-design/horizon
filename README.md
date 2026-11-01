@@ -1,0 +1,1 @@
+Horizon #5947: exit a moving boat while W is held, release W after exiting, then observe the empty boat. Fresh isolated integrated-server worlds. Before: main 374b50d48; after: fix/boat-paddles-on-dismount. The real-server parity harness verifies 18 metadata transitions, including dismount without a final PaddleBoat packet, for boats, chest boats and rafts.
